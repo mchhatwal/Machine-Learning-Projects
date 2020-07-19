@@ -4,7 +4,7 @@ Below, you can see the different data science projects I have completed so far.
 
 ### Real Estate Tycoon
 
-![Screenshot Taken from Zillow Homes](https://images.app.goo.gl/Zz4vAX3CzMsbRoQ9A).
+![Screenshot Taken from Zillow Homes](images/download.png).
 
 The aim of this project was to build a model that could accurately predict housing prices based on numerous different features, such as house size, location, and surrounding amenities. Throughout the project, I fitted and plotted numerous different models, comparing each of them to ultimately identify the most accurate model to predict house price. 
 
