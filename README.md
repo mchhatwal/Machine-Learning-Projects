@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Coding Portfolio!
 
-You can use the [editor on GitHub](https://github.com/mchhatwal/mchhatwal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Below, you can see the different data science projects I have completed so far. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Real Estate Tycoon
+
+![Screenshot Taken from Zillow Homes](https://images.app.goo.gl/Zz4vAX3CzMsbRoQ9A).
+
+The aim of this project was to build a model that could accurately predict housing prices based on numerous different features, such as house size, location, and surrounding amenities. Throughout the project, I fitted and plotted numerous different models, comparing each of them to ultimately identify the most accurate model to predict house price. 
+
+Real Estate Tycoon can be found [here](https://github.com/mchhatwal/Real-Estate-Tycoon).
 
 ### Markdown
 
