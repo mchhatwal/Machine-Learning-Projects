@@ -1,6 +1,6 @@
 ## Welcome to My Coding Portfolio!
 
-Below, you can see the different data science projects I have completed so far. 
+Below, you can see the different machine learning projects I have completed so far. 
 
 ### Real Estate Tycoon
 
