@@ -20,8 +20,16 @@ Chief People Officer can be found [here](https://github.com/mchhatwal/Chief-Peop
 
 ### BigMart Sales 
   
-!
+![example](bigmart.png).
 
-### Unsupervised Customers 
+In the BigMart sales project, my goal was to build a machine learning model to predict the sales of each product across different stores. My model based its prediction on past sales data from each store, then made predictions on how much each store would need of each item. This assists the outlets in properly stocking and storing inventory in their store, ultimately boosting profits! 
+
+BigMart Sales can be found [here](https://github.com/mchhatwal/BigMart-Sales).
 
 ### Twitter Sentiment Analysis 
+
+![example](twitter.png).
+
+Now a days, our country is becoming more and more polarized with political opinions, radical actions, and hate speech. With the prominence of social media, hate speech is surging across numerous platforms, one being Twitter. Being able to classify tweets as either hate speech or not is crucial in today's climate, and luckily, I have build a machine learning model to accomplish exactly this task! Using a dataset of previous tweets and natural language processing, my ML model will label tweets as '0' for regular speech and '1' for hate speech! 
+
+Twitter Sentiment Analysis can be found [here](https://github.com/mchhatwal/Twitter-Sentiment-Analysis).
