@@ -20,7 +20,7 @@ Chief People Officer can be found [here](https://github.com/mchhatwal/Chief-Peop
 
 ### BigMart Sales 
   
-![example](bigmart.png).
+![example](bigmart.png)
 
 In the BigMart sales project, my goal was to build a machine learning model to predict the sales of each product across different stores. My model based its prediction on past sales data from each store, then made predictions on how much each store would need of each item. This assists the outlets in properly stocking and storing inventory in their store, ultimately boosting profits! 
 
