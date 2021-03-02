@@ -33,3 +33,11 @@ BigMart Sales can be found [here](https://github.com/mchhatwal/BigMart-Sales).
 Now a days, our country is becoming more and more polarized with political opinions, radical actions, and hate speech. With the prominence of social media, hate speech is surging across numerous platforms, one being Twitter. Being able to classify tweets as either hate speech or not is crucial in today's climate, and luckily, I have build a machine learning model to accomplish exactly this task! Using a dataset of previous tweets and natural language processing, my ML model will label tweets as '0' for regular speech and '1' for hate speech! 
 
 Twitter Sentiment Analysis can be found [here](https://github.com/mchhatwal/Twitter-Sentiment-Analysis).
+
+### Student Satisfaction Analysis 
+
+![example](dropout.png).
+
+In this project, I aim to determine which students are most likely to drop out from school, given numerous different variables such as: major of study, current and previous GPA, parental background in studies and salary-wise, and more. By using predictive algorithms, my ML model will output a table of expectations for who will drop out and who won't, given previous drop-out information. The results are labeled '0' if a student stays in school, and '1' if they drop out! 
+
+Student Satisfaction Analysis can be found [here](https://github.com/mchhatwal/Students-Satisfaction). 
